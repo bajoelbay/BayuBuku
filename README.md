@@ -1,6 +1,7 @@
 # novelbay
 
-A new Flutter project.
+Nama : Bayu Nur Setiyono
+Nim : 211240001138
 
 ## Getting Started
 
